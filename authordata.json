@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ef43aca791ca60c331fd172"},"name":"William Shakespeare","book":"The Template","genre":"Drama","image":"sheks.jpeg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ef45de842fa77253789d1a5"},"name":"Aundhathi Roy","book":"The God of Small Things","genre":"Novel","image":"arundhathi.jpeg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ef5c8a1dc2a0b10487031fd"},"name":"Dan Brown","book":"The Davinci Code","genre":"Mystery","image":"dan.jpeg","__v":{"$numberInt":"0"}}

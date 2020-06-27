@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ef31f16a61420245a68ca38"},"title":"The God of Small Things","author":"Arundhathi Roy","genre":"Novel","image":"god.jpeg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ef32013a61420245a68ca39"},"title":"The Tempest","author":"William Shakespeare","genre":"Drama","image":"temp.jpeg","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ef397b50f828d1a8a1092df"},"title":"The Davinci Code","author":"Dan Brown","genre":"Mystery","image":"davinci.jpeg","__v":{"$numberInt":"0"}}
